@@ -25,11 +25,11 @@ To set up the project locally, follow these steps:
     ```
 ## Steps Taken:
 
-# Ideation Phase
+### Ideation Phase
 
 The ideation phase involved brainstorming and generating creative ideas that address the needs of sports fans and athletes who wish to organize local Olympic Games. This process was essential for identifying user pain points and opportunities for enhancing the festival experience. 
 
-## 🌟 Key Aspects of the Ideation Phase:
+#### 🌟 Key Aspects of the Ideation Phase:
 
 - **User-Centric Approach**: 
   By conducting workshops and interviews with potential users, i gathered insights into their expectations and challenges.
@@ -39,11 +39,11 @@ The ideation phase involved brainstorming and generating creative ideas that add
 
 ---
 
-# Prototyping
+### Prototyping
 
 Once ideas were generated, prototyping allowed us to create tangible representations of those concepts. Prototypes  ranged from low-fidelity wireframes to mid-fidelity interactive models.
 
-## 🔄 Key Aspects of Prototyping:
+#### 🔄 Key Aspects of Prototyping:
 
 - **Iterative Design**: 
   Prototyping was an iterative process where feedback from usability testing informed subsequent versions.
@@ -52,29 +52,31 @@ Once ideas were generated, prototyping allowed us to create tangible representat
 
 ---
 
-# Animation
+### Animation
 
 I Incorporated animation into the platform which significantly enhanced user experience by making interactions more engaging and intuitive.
 
-## 🎨 Key Aspects of Animation:
+#### 🎨 Key Aspects of Animation:
 
 - **Visual Feedback**: 
   Animations  provided visual cues that helped users understand system responses. 
 - **Dynamic Content**: 
   Using animations to present information dynamically kept users engaged and reduce perceived wait times. 
-# 📊 Usability Testing
+
+### 📊 Usability Testing
 
 I conducted usability testing with five participants to gather feedback on the wireframe prototype. Below are key findings and suggested iterations based on user feedback.
 
-## 🔑 Key Learnings:
+#### 🔑 Key Learnings:
 
 - **Navigation Clarity**: Users found some navigation elements confusing when moving between creating an event and reviewing details. 🔄
 - **Input Fields**: Several participants expressed uncertainty about required fields versus optional fields during event creation. ❓
 - **Social Media Integration**: Users were unclear on how to share events on social media; they suggested clearer prompts or buttons. 📱
 - **Visual Design**: Feedback indicated that while the layout was generally appealing, some users felt that certain sections were too cluttered. 🗂️
 - **Error Handling**: Participants noted that error messages were not clear when they tried to submit incomplete information. ⚠️
+  
 
-## 🔄 List of 5 Main Iterations for Next Version:
+#### 🔄 List of 5 Main Iterations for Next Version:
 
 1. **Improve Navigation Flow**:
    - Simplify transitions between sections by adding breadcrumb navigation or clearer back buttons. 🧭
@@ -91,21 +93,21 @@ I conducted usability testing with five participants to gather feedback on the w
 5. **Strengthen Error Messages**:
    - Revise error messages to provide specific guidance on what needs to be corrected before submission. 🔍
 
-# 🤝 Contributing
+#### 🤝 Contributing
 
 We welcome contributions! If you would like to contribute to the project, please fork the repository and submit a pull request.
 
-## 📄 License
+#### 📄 License
 
 This project is licensed under the MIT License .
 
-## 📞 Contact Information
+####  📞 Contact Information
 
 For questions or feedback, please contact:
 
 - **Your Name** - annmaina614@gmail.com
 
-## 🌐 Connect with me
+#### 🌐 Connect with me
 
 - [Github](https://github.com/nyagooh)
  - [LinkedIn](https://www.linkedin.com/in/maina-anne-37797820b/)
